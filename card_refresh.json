@@ -1,0 +1,8 @@
+{
+  "cpu": 2,
+  "mem": 3,
+  "disk": 4,
+  "net": 2,
+  "gpu_integrated": 1,
+  "gpu_discrete": 1
+}
